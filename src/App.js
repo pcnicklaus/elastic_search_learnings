@@ -13,7 +13,7 @@ export default () => (
             }}
         >
             <nav className="nav">
-                <div className="title">airbeds</div>
+                <div className="title">Elastic eSearch Test</div>
             </nav>
             <div className="left-col">
                 <DateRange
